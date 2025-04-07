@@ -2,13 +2,13 @@
 name: YourOwnHive
 version: 2.5.0
 main: Tuvqlu\YourOwnHive\hive
-api: 5.0.0
+api: 4.0.0
 
 website: https://github.com/Tuvqlu/Your-own-Hive/
 description: Hive Server in your own!
 author: Tuvqlu
 extensions:
-  core: ">=5.0"
+  core: ">=4.0"
 
 permissions:
   staff.hive:
